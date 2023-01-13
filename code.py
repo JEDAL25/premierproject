@@ -1,4 +1,5 @@
 def fonction_prof(x):
-    return x + 4
+    print("Addition par 8")
+    return x + 8
 
-print(fonction_prof(6)) 
+print(fonction_prof(6))
